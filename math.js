@@ -4,3 +4,5 @@ a+=4;//a=a+4
 console.log("a=",a);
 a-=2;//a=a-2
 console.log("a=",a);
+b*=2;//b=b*2
+console.log("b=",b);
